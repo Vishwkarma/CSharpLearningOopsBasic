@@ -1,0 +1,7 @@
+C:\Users\cheta\OneDrive\Desktop\C#Language\MethodsAndOopsInC#\bin\Debug\MethodsAndOopsInC#.exe.config
+C:\Users\cheta\OneDrive\Desktop\C#Language\MethodsAndOopsInC#\bin\Debug\MethodsAndOopsInC#.exe
+C:\Users\cheta\OneDrive\Desktop\C#Language\MethodsAndOopsInC#\bin\Debug\MethodsAndOopsInC#.pdb
+C:\Users\cheta\OneDrive\Desktop\C#Language\MethodsAndOopsInC#\obj\Debug\MethodsAndOopsInC#.csproj.AssemblyReference.cache
+C:\Users\cheta\OneDrive\Desktop\C#Language\MethodsAndOopsInC#\obj\Debug\MethodsAndOopsInC#.csproj.CoreCompileInputs.cache
+C:\Users\cheta\OneDrive\Desktop\C#Language\MethodsAndOopsInC#\obj\Debug\MethodsAndOopsInC#.exe
+C:\Users\cheta\OneDrive\Desktop\C#Language\MethodsAndOopsInC#\obj\Debug\MethodsAndOopsInC#.pdb

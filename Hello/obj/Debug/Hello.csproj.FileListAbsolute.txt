@@ -1,0 +1,7 @@
+C:\Users\cheta\OneDrive\Desktop\C#Language\Hello\bin\Debug\Hello.exe.config
+C:\Users\cheta\OneDrive\Desktop\C#Language\Hello\bin\Debug\Hello.exe
+C:\Users\cheta\OneDrive\Desktop\C#Language\Hello\bin\Debug\Hello.pdb
+C:\Users\cheta\OneDrive\Desktop\C#Language\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+C:\Users\cheta\OneDrive\Desktop\C#Language\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\cheta\OneDrive\Desktop\C#Language\Hello\obj\Debug\Hello.exe
+C:\Users\cheta\OneDrive\Desktop\C#Language\Hello\obj\Debug\Hello.pdb
